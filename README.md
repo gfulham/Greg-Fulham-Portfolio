@@ -7,7 +7,6 @@ To view the final deliverable notebook click [here](https://nbviewer.jupyter.org
 - Created a script that runs through Survey Data and cleans it for analysis. 
 - Data delivered via excel with over 17000 entries from 198 respondents. 
 - Created visualizations to examine question order bias.
-- test
 ![image](images/survey-answer-order-bias.png)
 
 
