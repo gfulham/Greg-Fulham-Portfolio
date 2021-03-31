@@ -17,4 +17,4 @@ In October 2015, a data journalist named Walt Hickey analyzed movie ratings data
 
 The goal of this project is to analyze more recent movie ratings data to determine whether there has been any change in Fandango's rating system after Hickey's analysis in 2015.
 
-![image](https://github.com/gfulham/Fandango-movie-ratings/blob/23e44b30b7c44b9e11ce367b4f61d5308bece72c/images/Density-plot-fandango-ratings.png)
+![image](https://raw.githubusercontent.com/gfulham/Fandango-movie-ratings/23e44b30b7c44b9e11ce367b4f61d5308bece72c/images/Density-plot-fandango-ratings.png)
