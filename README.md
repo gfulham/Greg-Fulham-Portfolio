@@ -9,4 +9,4 @@ To view the final deliverable notebook click [here](https://nbviewer.jupyter.org
 - Created visualizations to examine question order bias.
 - The idea for the analysis section came from a blog post on [Survey Monkey](https://www.surveymonkey.com/curiosity/eliminate-order-bias-to-improve-your-survey-responses/)
 - The conclusion in the analysis shows there is some bias towards answers 4,5,6, and 7 but it is insignificant in its size.. 
-![Survey_Answer_Order_Bias](/images/survey_answer_order_bias.png)
+![Survey_Answer_Order_Bias](https://github.com/gfulham/Greg-Fulham-Portfolio/blob/main/images/survey%20_answer_order_bias.png)
