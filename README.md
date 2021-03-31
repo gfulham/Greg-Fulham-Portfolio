@@ -9,7 +9,7 @@ To view the final deliverable notebook click [here](https://nbviewer.jupyter.org
 - Created visualizations to examine question order bias.
 - The idea for the analysis section came from a blog post on [Survey Monkey](https://www.surveymonkey.com/curiosity/eliminate-order-bias-to-improve-your-survey-responses/)
 - The conclusion in the analysis shows there is some bias towards answers 4,5,6, and 7.
-![image](https://github.com/gfulham/Greg-Fulham-Portfolio/blob/main/images/survey-answer-order-bias.png)
+![image](https://github.com/gfulham/survey_monkey/blob/b23e4dde7ed48d820032f8b0d3fa1cf59ad2e6e5/images/Survey%20Answer%20Order%20Bias.png)
 
 
 # Project #2: Does Fandango Still Inflate Their Movie Ratings
@@ -19,3 +19,4 @@ In October 2015, a data journalist named Walt Hickey analyzed movie ratings data
 
 The goal of this project is to analyze more recent movie ratings data to determine whether there has been any change in Fandango's rating system after Hickey's analysis in 2015.
 
+![image](https://github.com/gfulham/Fandango-movie-ratings/blob/23e44b30b7c44b9e11ce367b4f61d5308bece72c/images/Density-plot-fandango-ratings.png)
