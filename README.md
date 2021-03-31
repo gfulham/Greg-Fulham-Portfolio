@@ -10,3 +10,12 @@ To view the final deliverable notebook click [here](https://nbviewer.jupyter.org
 - The idea for the analysis section came from a blog post on [Survey Monkey](https://www.surveymonkey.com/curiosity/eliminate-order-bias-to-improve-your-survey-responses/)
 - The conclusion in the analysis shows there is some bias towards answers 4,5,6, and 7.
 ![image](https://github.com/gfulham/Greg-Fulham-Portfolio/blob/main/images/survey-answer-order-bias.png)
+
+
+# Project #2: Does Fandango Still Inflate Their Movie Ratings
+To view the project github page click [here](https://github.com/gfulham/Fandango-movie-ratings) 
+
+In October 2015, a data journalist named Walt Hickey analyzed movie ratings data and found strong evidence to suggest that Fandango's rating system was biased and dishonest. He published his analysis in this article. Hickey found that there's a significant discrepancy between the number of stars displayed for movie ratings and the actual rating,
+
+The goal of this project is to analyze more recent movie ratings data to determine whether there has been any change in Fandango's rating system after Hickey's analysis in 2015.
+
